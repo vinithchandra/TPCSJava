@@ -1,7 +1,7 @@
 // Java program to illustrate 
 // redeclaring a variable 
 // in initialization block 
-public class Example3 
+public class Example4 
 { 
 	public static void main(String[] args) 
 	{	 
