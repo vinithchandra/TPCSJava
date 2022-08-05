@@ -32,7 +32,7 @@ static void halfDiamondStar(int N)
 // Driver Code 
 public static void main(String[] args) 
 { 
-	int N = 5; 
+	int N = 500; 
 
 	// Function Call 
 	halfDiamondStar(N); 
